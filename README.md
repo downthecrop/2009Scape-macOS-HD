@@ -23,5 +23,5 @@ https://github.com/Gcenx/WineskinServer
 
 ## History
 
-macOS JOGL gives an error and after days of trying I settled on a sort term solution.
+macOS JOGL gives an error and after days of trying I settled on a short term solution.
 
