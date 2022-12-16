@@ -14,6 +14,8 @@ https://github.com/Gcenx/WineskinServer
 
 - Only the `Legacy` client option will work in HD currently. After an update the Experimental client will also work.
 
+- I don't plan to support this long term. If you would like to update the Saradomin Launcher just replace `Saradomin.exe` with `Show Package Contents`
+
 - Troubleshooting: If you are unable to relaunch the Saradomin app open `Activity Monitor` and force quit anything named `wine`
 
 ![Screenshot 2022-12-15 at 8 54 41 pm](https://user-images.githubusercontent.com/4764745/208025315-b729a653-8391-4e2a-b65a-acd695fd7632.png)
